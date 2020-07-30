@@ -10,11 +10,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="asif" width="22px" src="https://toppng.com/uploads/preview/web-png-jpg-transparent-stock-website-icon-blue-11563644926reanjnmk6x.png" />][website]
+[<img align="left" alt="asif | YouTube" width="22px" src="https://www.freepnglogos.com/uploads/youtube-logo-red-hd-13.png" />][youtube]
+[<img align="left" alt="asif | Twitter" width="22px" src="https://pngimg.com/uploads/twitter/twitter_PNG3.png" />][twitter]
+[<img align="left" alt="asif | LinkedIn" width="22px" src="https://imageog.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" />][linkedin]
+[<img align="left" alt="asif | Instagram" width="22px" src="https://w7.pngwing.com/pngs/69/987/png-transparent-instagram-logo-maker-faire-social-media-logo-instagram-instagram-purple-text-photography.png" />][instagram]
 
 <br />
 
