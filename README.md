@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a [School Club Website][work in progress]!💻
 - 🌱 I’m currently learning ReactJs and NodeJs 💪
 - 👯 I’m looking to collaborate with other developers🤝
-- 🥅 2020 Goals: Contribute more to Open Source projects, Start my blog and create content✔️
+- 🥅 2020 Goals: Contribute more to Open Source projects, Start my Blog and Start Creating Content Online✔️
 - ⚡ Fun fact: I love to sing and play guitar 🧑‍🎤
 
 ### Connect with me:
