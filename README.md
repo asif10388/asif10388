@@ -62,6 +62,8 @@
 ---
 
 <img align="left" alt="asif10388's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asif10388&show_icons=true&hide_border=true" />
+<img align="left" alt="asif10388's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asif10388&layout=compact" />
+
 
 [website]: https://asifkhan.imfast.io/
 [work in progress]: https://bnmpcitc.ml/
