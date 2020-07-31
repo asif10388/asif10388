@@ -7,7 +7,9 @@
 - 👯 I’m looking to collaborate with other developers🤝
 - 🥅 2020 Goals: Contribute more to Open Source projects, Start my Blog and Start Creating Content Online✔️
 - ⚡ Fun fact: I love to sing and play guitar 🧑‍🎤
-
+---
+#### I'm Currently Available for Work 😀
+---
 ### Connect with me:
 
 [<img align="left" alt="asif" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
