@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Designer and Writer!
 
-- 🔭 I’m currently working on a [School Club Website][work in progress]!💻
+- 🔭 I’m currently working on a [Specialized News Forum Website][work in progress]!💻
 - 🌱 I’m currently learning ReactJs and NodeJs 💪
 - 👯 I’m looking to collaborate with other developers🤝
 - 🥅 2020 Goals: Contribute more to Open Source projects, Start my Blog and Start Creating Content Online✔️
@@ -68,7 +68,7 @@
 
 
 [website]: https://asifkhan.imfast.io/
-[work in progress]: https://bnmpcitc.ml/
+[work in progress]: https://example.com/
 [twitter]: https://twitter.com/asif10388
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/asif10388
