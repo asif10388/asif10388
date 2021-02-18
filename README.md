@@ -8,7 +8,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects, Start my Blog and Start Creating Content Online✔️
 - ⚡ Fun fact: I love to sing and play guitar 🧑‍🎤
 ---
-#### I'm Currently Available for Work 😀
+#### I'm Currently Available for Project Collaborations 😀
 ---
 ### Connect with me:
 
