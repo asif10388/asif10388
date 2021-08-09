@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Designer and Writer!
 
-- 🔭 I’m currently working on a [Edvive][edvive.com]!💻
+- 🔭 I’m currently working on a [Edvive](edvive.com)!💻
 - 🌱 I’m currently learning ReactJs and NodeJs 💪
 - 👯 I’m looking to collaborate with other developers🤝
 - 🥅 2021 Goals: Contribute more to Open Source projects, Start my Blog and Start Creating Content Online✔️
