@@ -2,10 +2,10 @@
 
 ## I'm a Developer, Designer and Writer!
 
-- 🔭 I’m currently working on a [Specialized News Forum Website][work in progress]!💻
+- 🔭 I’m currently working on a [Edvive][edvive.com]!💻
 - 🌱 I’m currently learning ReactJs and NodeJs 💪
 - 👯 I’m looking to collaborate with other developers🤝
-- 🥅 2020 Goals: Contribute more to Open Source projects, Start my Blog and Start Creating Content Online✔️
+- 🥅 2021 Goals: Contribute more to Open Source projects, Start my Blog and Start Creating Content Online✔️
 - ⚡ Fun fact: I love to sing and play guitar 🧑‍🎤
 ---
 #### I'm Currently Available for Project Collaborations 😀
