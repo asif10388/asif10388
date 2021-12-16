@@ -1,11 +1,11 @@
 ### Hi there, I'm Asif 👋
 
-## I'm a Developer, Designer and Writer!
+## I'm a Frontend Developer and Designer!
 
-- 🌱 I’m currently learning ReactJs and NodeJs 💪
+- 🌱 I’m currently learning React Native 💪
 - 👯 I’m looking to collaborate with other developers🤝
-- 🥅 2021 Goals: Contribute more to Open Source projects, Start my Blog and Start Creating Content Online✔️
-- ⚡ Fun fact: I love to sing and play guitar 🧑‍🎤
+- 🥅 2022 Goals: Contribute more to Open Source projects, Start my Blog and Start Creating Content Online✔️
+- ⚡ Fun fact: I love to sing 🧑‍🎤
 ---
 #### I'm Currently Available for Project Collaborations 😀
 ---
