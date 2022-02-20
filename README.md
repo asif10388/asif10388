@@ -1,6 +1,6 @@
 ### Hi there, I'm Asif 👋
 
-## I'm a Frontend Developer and Designer!
+## I'm a Software Engineer!
 
 - 🌱 I’m currently learning React Native 💪
 - 👯 I’m looking to collaborate with other developers🤝
@@ -66,10 +66,10 @@
 <img align="left" alt="asif10388's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asif10388&layout=compact" />
 
 
-[website]: https://asifkhan.imfast.io/
+[website]: https://asifkhandev.netlify.app/
 [work in progress]: https://example.com/
 [twitter]: https://twitter.com/asif10388
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://www.youtube.com/c/DevelopersBase
 [instagram]: https://instagram.com/asif10388
 [linkedin]: https://linkedin.com/in/asif10388
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
