@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning React Native 💪
 - 👯 I’m looking to collaborate with other developers🤝
-- 🥅 2022 Goals: Contribute more to Open Source projects, Start my Blog and Start Creating Content Online✔️
+- 🥅 2022 Goals: Work on DevelopersBase, Start my Blog and Start Creating Content Online✔️
 - ⚡ Fun fact: I love to sing 🧑‍🎤
 ---
 #### I'm Currently Available for Project Collaborations 😀
@@ -20,8 +20,6 @@
 <br />
 
 ### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 
@@ -70,9 +68,5 @@
 [work in progress]: https://example.com/
 [twitter]: https://twitter.com/asif10388
 [youtube]: https://www.youtube.com/c/DevelopersBase
-[instagram]: https://instagram.com/asif10388
+[instagram]: https://instagram.com/asif_hossaink
 [linkedin]: https://linkedin.com/in/asif10388
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
