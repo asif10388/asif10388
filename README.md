@@ -2,10 +2,10 @@
 
 ## I'm a Software Engineer!
 
-- 🌱 I’m currently learning React Native 💪
+- 🌱 I’m currently learning a lot of things 💪
 - 👯 I’m looking to collaborate with other developers🤝
 - 🥅 2022 Goals: Work on DevelopersBase, Start my Blog and Start Creating Content Online✔️
-- ⚡ Fun fact: I love to sing 🧑‍🎤
+
 ---
 #### I'm Currently Available for Project Collaborations 😀
 ---
