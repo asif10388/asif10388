@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning a lot of things 💪
 - 👯 I’m looking to collaborate with other developers🤝
-- 🥅 2022 Goals: Work on DevelopersBase, Start my Blog and Start Creating Content Online✔️
+- 🥅 2023 Goals: Work on DevelopersBase, Start my Newsletter and Build My SAAS✔️
 
 ---
 #### I'm Currently Available for Project Collaborations 😀
